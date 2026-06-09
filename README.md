@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moinul-islam-shakib-7687201b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-i-shakib)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-ruby-92.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-ruby-92.vercel.app/)
 
 </div>
 
